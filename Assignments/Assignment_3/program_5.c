@@ -1,4 +1,4 @@
-// Accept one character from the user and check if it id vowel or not.
+// Accept one character from the user and check if it is vowel or not.
 
 ////////////////////////////////////////////////////////////
 //
@@ -72,3 +72,4 @@ int main()
 //   Input : b                       Output : Not a Vowel
 //
 ////////////////////////////////////////////////////////////
+
