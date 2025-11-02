@@ -55,7 +55,8 @@ int main()
 //
 //   Testcases for the application :
 //
-//   Input :25 30     Output:25 26 27 28 29 30
-//   Input :10 12     Output:10 11 12
+//   Input :25 30     Output:30 29 28 27 26 25
+//   Input :10 12     Output:12 11 10
+//   Input :13 17     Output:17 16 15 14 13
 //
 ////////////////////////////////////////////////////////////
